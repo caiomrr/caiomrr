@@ -1,8 +1,8 @@
 ## Olá,me chamo Caio Marcelo!🤓😜👾💻🖥📲
 <div style="display: inline_block"><br>
   <a href="https://github.com/caiomrr">
-  <img align="center" height="100em" src="https://github-readme-stats.vercel.app/api?username=caiomrr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img align="center" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomrr&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=caiomrr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img align="center" height="140em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomrr&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
