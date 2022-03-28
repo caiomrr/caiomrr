@@ -10,7 +10,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   ##
-  <img align="right" height="300" style="border-radius:80px;" src="https://i.pinimg.com/originals/82/fe/bb/82febb1f565f2380bde55f14e6a1b11d.gif">
+  <img align="right" height="150" style="border-radius:80px;" src="https://i.pinimg.com/originals/82/fe/bb/82febb1f565f2380bde55f14e6a1b11d.gif">
 </div>
    <div> 
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
